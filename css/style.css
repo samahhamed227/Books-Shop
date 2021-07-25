@@ -65,7 +65,7 @@ border-radius: 5px;
 }
 
 table,td,tr,th {
-    background-color: rgba(64, 34, 24,0.7);
+    
     border-collapse: collapse;
     border:white 1px solid ;
     color: white;
